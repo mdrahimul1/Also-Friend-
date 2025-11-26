@@ -1,0 +1,5 @@
+{
+  "name": "Movie App with Firebase Auth",
+  "description": "A movie application with user registration, login, profile management, and a movie browsing interface, all connected to Firebase for backend services. The interface is in Bengali.",
+  "requestFramePermissions": []
+}
